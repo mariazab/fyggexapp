@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FyggexApp</string>
+    <string name="no_internet_msg">No internet connection. Please try again</string>
+    <string name="no_news_msg">No news found. Please try again later.</string>
+    <string name="no_rates_msg">No rates found. Please try again later.</string>
+    <string name="news_btn">NEWS</string>
+    <string name="rates_btn">Rates</string>
+</resources>
